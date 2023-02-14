@@ -1,0 +1,6 @@
+"Soul Nomad & the World Eaters /ID SLES_551.67"
+Mastercode
+901130d0 0c044bdc		// sceSifSendCmd (recommended)
+//~901252d8 0c04aa56	// scePadRead
+//~90136dd8 0c058bc8	// main (unreliable)
+
