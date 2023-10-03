@@ -1,0 +1,7 @@
+"K-1 World Grand Prix 2006 /ID SLPS_257.10"
+//ELF CRC=A7E5CE23
+
+Mastercode
+902BE3D8 0C0AF89E //sceSifSendCmd
+902989CC 0C0AD67B //scePadRead
+901001E8 0C0AB7B6 //main

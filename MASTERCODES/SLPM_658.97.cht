@@ -1,0 +1,7 @@
+"Racing Battle C1 Grand Prix /ID SLPM_658.97"
+//ELF CRC=1C087362
+
+Mastercode
+90121750 0C04857C //sceSifSendCmd
+901396F8 0C043E26 //scePad2Read
+9013B818 0C04008C //main
